@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ADMIN_SHOPEE</string>
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_profile">Setting</string>
+    <string name="menu_history">History</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_product">Product</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_message">Message</string>
+    <string name="menu_account">Account</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="footer">©2020 Copyright:Shopee.com</string>
+    <string name="product">Product</string>
+    <string name="addProduct">Add Product</string>
+    <string name="addSubCate">Add SubCate</string>
+    <string name="addCategory">Add Category</string>
+    <string name="menu_order">Order</string>
+</resources>
